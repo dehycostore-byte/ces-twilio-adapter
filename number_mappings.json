@@ -1,0 +1,8 @@
+{
+  "whatsapp:+13073643991": {
+    "deployment_id": "projects/deynova-prod/locations/us/apps/b39ea00c-b503-4d62-9cda-6737ca64a4c3/deployments/90d17cdc-3e7f-47c6-8ab5-5787756ebb7c"
+  },
+  "whatsapp:+573180867532": {
+    "deployment_id": "projects/deynova-prod/locations/us/apps/d5f8fb2d-354b-4318-b5fc-1700c3c904e6/deployments/b68ffb8f-77bc-4fad-a89a-0a70ad13ae65"
+  }
+}
